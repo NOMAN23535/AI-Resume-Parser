@@ -1,1 +1,1 @@
-# AI-Resume-Parser-BY_NOMAN
+An AI-powered Resume Parser system that automatically extracts, analyzes, and structures resume data. It uses Python and NLP to identify skills, generate candidate profiles, and provide smart job matching for recruiters.
